@@ -1,2 +1,2 @@
 # Test
-This repository is for Practice
+Git is awesome
